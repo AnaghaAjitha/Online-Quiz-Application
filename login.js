@@ -1,6 +1,6 @@
 const users = [ 
-    { username:"anazza",password:"ana123"},
-    { username:"Meow_guy",password:"meow"}
+    { username:"abc",password:"aba123"},
+    { username:"xyz",password:"xyz@123"}
 ];
 
 function valid(){
